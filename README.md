@@ -1,2 +1,2 @@
-# GEOLOGIST
-Selfishness and selflessness are not balanced.........
+# Geologist
+Geologist Project
